@@ -1,0 +1,2 @@
+# 最小依赖；接入真实 API 时可按需增加 requests 等
+# requests>=2.28.0
